@@ -10,7 +10,7 @@ const config = {
     },
     production: {
       customViewId: 'cmhbsqvaz0007w101miolfjz8',
-      url: 'https://ct-view-custom.netlify.app',
+      url: 'https://ct-view-custom.netlify.app/',
     },
   },
   oAuthScopes: {
