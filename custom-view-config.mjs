@@ -9,8 +9,8 @@ const config = {
       initialProjectKey: 'ct-training-1',
     },
     production: {
-      customViewId: 'TODO',
-      url: 'https://my-custom-view.com',
+      customViewId: 'cmhbsqvaz0007w101miolfjz8',
+      url: 'https://ct-view-custom.netlify.app',
     },
   },
   oAuthScopes: {
